@@ -1,0 +1,7 @@
+baseURL = 'http://alexstewart.uk/'
+languageCode = 'en-gb'
+title = 'Alex Stewart'
+theme = 'hugo-texify2'
+
+[params]
+footnote = ""
