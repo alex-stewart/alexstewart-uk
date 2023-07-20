@@ -6,3 +6,15 @@ theme = 'hugo-texify2'
 [params]
 title = 'Alex Stewart'
 footnote = ""
+enableDuckDuckGoSearchBox = false
+
+[[menu.main]]
+identifier = "post"
+name = "Posts"
+url = "/"
+weight = 1
+[[menu.main]]
+identifier = "archives"
+name = "Archive"
+url = "/post/"
+weight = 2
