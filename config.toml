@@ -4,4 +4,5 @@ title = 'Alex Stewart'
 theme = 'hugo-texify2'
 
 [params]
+title = 'Alex Stewart'
 footnote = ""
